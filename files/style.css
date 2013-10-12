@@ -777,3 +777,9 @@ div.comment-function a:hover {
 	width:30px;
 	height:30px;
 }
+/*read页面样式定义结束*/
+/*修正ueditor代码现实不换行bug*/
+.syntaxhighlighter td.code {
+    word-break: break-all;
+}
+/*修正ueditor代码现实不换行bug*/
